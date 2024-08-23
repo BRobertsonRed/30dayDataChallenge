@@ -28,4 +28,5 @@ This project focuses on creating a financial performance dashboard in Tableau. Y
 
 ## Additional Resources
 - [Guided Project: Financial Performance Dashboard in Tableau](https://www.coursera.org/learn/financial-dashboard-tableau)
-- [Financial Dashboard Best Practices](https://
+- [Financial Dashboard Best Practices](https://www.tableau.com/learn/articles/financial-dashboard-best-practices)
+****
